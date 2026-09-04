@@ -125,6 +125,7 @@ systemctl --user edit codex-app-transfer-update.timer   # откроет editor 
 - 2026-09-04 — форк создан из Cmochance/codex-app-transfer@74d79cb
 - 2026-09-04 — установлен upstream remote, локальные git config, bin/ scripts
 - 2026-09-04 — systemd user timer настроен (daily auto-update)
+- 2026-09-04 — добавлены правила: `AGENTS.fork.md`, `CONTRIBUTING.fork.md`, `bin/RULES.md`
 
 ## История
 
